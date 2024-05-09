@@ -153,6 +153,12 @@ footer {
 .footer--menu--links ul li:last-child {
     padding-bottom:20px
 }
+
+.footer--menu--links ul li a {
+    text-decoration: none;
+    color: #999
+}
+
  h3 {
     text-align: left;
     padding: 25px 0;
