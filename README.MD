@@ -9,3 +9,8 @@ Projeto feito no módulo do curso Node + Typescript pela B7Web
 
 ### Para rodar o projeto
 `npm run dev`
+
+
+### URL
+`https://web-production-ab0c.up.railway.app/`
+
